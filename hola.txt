@@ -1,1 +1,4 @@
 te amo richi
+Nueva linea de feature - loginte amo richi
+agregue el feature login
+reparacion de error fix detalle
